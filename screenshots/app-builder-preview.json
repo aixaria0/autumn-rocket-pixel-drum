@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CHIMERA",
+      "hasCanvas": false,
+      "bodyTextLen": 529,
+      "bodyTextHash": "c4b43b633c6ecfbf4e14eed1fa7297595fc3446ca311afee39292105c910fda3",
+      "bodyTextPrefix": "CHIMERA Hybrid classical–quantum lattice Command Lab Lattice For",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CHIMERA",
+      "hasCanvas": false,
+      "bodyTextLen": 432,
+      "bodyTextHash": "6bd6d9ce0a3e65609372d28ceefc5dc3d74998ce81244219f0d41e885f37d16d",
+      "bodyTextPrefix": "CHIMERA ISOLATED FA Command Classical shadows (or GHZ stabilizer",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
